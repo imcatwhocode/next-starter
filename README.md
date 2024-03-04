@@ -7,6 +7,7 @@ This is an opionated Next.js template with the following features:
 - ESLint, Prettier according to the Vercel Engineering Style Guide
 - Tailwind CSS
 - Commitlint with Conventionnal Commits rules and pre-commit hooks
+- Dockerfile ([@flydotio/dockerfile](https://www.npmjs.com/package/@flydotio/dockerfile))
 
 ## Requirements
 
